@@ -35,7 +35,9 @@ The Senior Data Scientist is Leadership and SME role in BHP. I am working with p
 Key responsibilities:
 - Leading Data Science Team and collaborating analytics and AI projects with Software Developer
 teams
-- Collaboration and application of different algorithms, solutions and solution providers within corporate, non-government and private stakeholdersThe Senior Data Scientist is Leadership and SME role in BHP. I am working with projects around Mine and Ore Handling Plant optimization and coordination of Data Science team to the internal and external stakeholders. Leading strategic development for extracting intelligence from real-time field data (Pi, ODR and Snowflake) and applying data science and ML models for optimizing the process workflow.. Key responsibilities: - Leading Data Science Team and collaborating analytics and AI projects with Software Developer teams - Collaboration and application of different algorithms, solutions and solution providers within corporate, non-government and private stakeholders…see more
+- Collaboration and application of different algorithms, solutions and solution providers within corporate, non-government and private stakeholdersThe Senior Data Scientist is Leadership and SME role in BHP. I am working with projects around Mine and Ore Handling Plant optimization and coordination of Data Science team to the internal and external stakeholders. Leading strategic development for extracting intelligence from real-time field data (Pi, ODR and Snowflake) and applying data science and ML models for optimizing the process workflow.. Key responsibilities: - Leading Data Science Team and collaborating analytics and AI projects with Software Developer teams - Collaboration and application of different algorithms, solutions and solution providers within corporate, non-government and private stakeholders.
+
+For viewing my full Work Experience please visit my [LinkedIn](https://www.linkedin.com/in/hasnein-tareque/) page
 
 <!--
 **HasneinTareque/HasneinTareque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
