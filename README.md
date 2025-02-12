@@ -18,7 +18,7 @@ As a Principal Research Scientist and member of the Senior Leadership Team in DP
 - Overseeing delivery of key priorities, scintific communications and project deliverables
 - Guiding business and communication plan and setting prioritization for the Branch
 - Overseeing management and development of the Team including strategic and professional developmentAs a Principal Research Scientist and member of the Senior Leadership Team in DPIRD, I lead the Systems Modelling Branch composed of Research Scientists, Climatologists, Biometricians and Software Developers. On top of leading the Systme Modelling Team, I am responsible for - Developing purposeful relationships with other Government organizations, Universities and Industry partrners - Providing support to the Director and CorpEx initiatives - Overseeing delivery of key priorities, scintific communications and project deliverables - Guiding business and communication plan and setting prioritization for the Branch - Overseeing management and development of the Team including strategic and professional development…see more
-##### The University of Western Australia (UWA)
+#### The University of Western Australia (UWA)
 Adjunct Associate Professor
 
 The University of Western Australia (UWA) · Full-timeThe University of Western Australia (UWA) · Full-time
