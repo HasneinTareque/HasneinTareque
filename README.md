@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hasnein Tareque is an accomplished Geospatial Researcher and Consultant with over 24 years of experience in Digital Agriculture and Environmental Management. He excels in developing decision support tools and applications, leveraging Remote Sensing (RS) and Artificial Intelligence (AI) for system modeling and environmental monitoring. His expertise spans large-scale agricultural and environmental research, utilizing advanced geospatial programming (Python, R, JavaScript) and high-performance computing environments.
+
 <!--
 **HasneinTareque/HasneinTareque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
